@@ -1,0 +1,3 @@
+[setuptools.file_finders]
+dummy = setuptools_dummy:dummylsfiles
+

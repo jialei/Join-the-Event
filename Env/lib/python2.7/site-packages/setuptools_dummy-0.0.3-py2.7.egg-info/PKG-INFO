@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: setuptools-dummy
+Version: 0.0.3
+Summary: Setuptools Dummy Filefinder
+Home-page: http://github.com/ella/setuptools-dummy/tree/master
+Author: centrum holdings s.r.o
+Author-email: devel@centrumholdings.com
+License: BSD
+Description: Setuptools Dummy Filefinder
+        
+        plugin for enabling all files integration
+        even if they are not under version control system
+Platform: UNKNOWN
+Classifier: Topic :: Software Development :: Version Control
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python
